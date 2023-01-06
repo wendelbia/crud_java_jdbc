@@ -13,7 +13,7 @@ public class SingleConnection {
 	static {
 		conectar();
 	}
-
+	//método q connecta com o banco de dados
 	private static void conectar() {
 		try {
 			//se a conexão for nula então haverá conexão
