@@ -6,16 +6,9 @@ public class Userposjava {
 	private String nome;
 	private String email;
 	private String idade;
-	private String datanascimento;
 
 	
 	
-	public String getDatanascimento() {
-		return datanascimento;
-	}
-	public void setDatanascimento(String datanascimento) {
-		this.datanascimento = datanascimento;
-	}
 	public String getIdade() {
 		return idade;
 	}
