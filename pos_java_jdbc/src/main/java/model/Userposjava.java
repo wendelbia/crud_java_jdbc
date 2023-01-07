@@ -7,7 +7,7 @@ public class Userposjava {
 	private String email;
 	private String idade;
 	private String datanascimento;
-	
+
 	
 	
 	public String getDatanascimento() {
