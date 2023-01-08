@@ -9,6 +9,7 @@ public class SingleConnection {
 	private static String password = "admin";
 	private static String user = "postgres";
 	private static Connection connection = null;
+	//token: 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
 	//usando o static quando for chamada essa classe então automaticamente será executado o método conectar()
 	static {
 		conectar();
